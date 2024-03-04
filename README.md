@@ -11,17 +11,6 @@ Instructions on setting up the project environment:
 
 ## Data
 
-**Raw Data**
-
-Dati raccolti attraverso un questionario somministrato a studenti di differenti corsi di laurea dell'Università degli Studi di Bologna.
-Tali dati presentano una serie di informazioni relative alla condizione psicologica e al percorso accademico degli studenti, oltre ad altre informazioni non di nostro interesse.
-
-**Processed Data**
-
-Sono state rimosse le informazioni non di nostro interesse. 
-Data preprocessing: i dati sono stati puliti e normalizzati, in modo da poter essere in seguito analizzati.
-Nello specifico, abbiamo gestito: valori mancanti, valori incoerenti, formato dei valori.
-
 **Results Data**
 
 Risultati salvati: dai differenti test di clustering sono stati salvati i risultati di nostro interesse, ovvero media e varianza calcolate per ogni feature di ogni cluster individuato.
@@ -42,7 +31,7 @@ How to test multiple algorithms:
 
 
 ## Structure
-- `/data`: Contains raw, processed and results data.
+- `/data`: Contains results data.
 - `/src`: Source code for the project.
   - `/scripts`: Individual scripts or modules.
   - `/notebooks`: Jupyter notebooks or similar.
