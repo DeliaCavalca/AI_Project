@@ -6,7 +6,7 @@ Attraverso un'analisi dei dati relativi alle prestazioni accademiche e alle cond
 
 ## Installation and Setup
 Instructions on setting up the project environment:
-1. Clone the repository: `git clone https://gitlab.com/DeliaCavalca/ai-project-template.git`
+1. Clone the repository: `git clone https://github.com/DeliaCavalca/AI_Project.git`
 2. Install dependencies: `pip install -r requirements.txt`
 
 ## Data
